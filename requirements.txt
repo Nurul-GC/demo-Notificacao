@@ -1,0 +1,4 @@
+desktop_notify
+notify2
+py_notifier
+pyqt5
