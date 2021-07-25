@@ -4,31 +4,37 @@
     gera notificações no ambiente principal..
     Usando três ferramentas diferentes
     e suas respectivas sintaxes..
+    
+| para mais informações |
+| --- |
+| leia os PDFs localizados na pasta `./doc/` ou [clique aqui..](/doc)* |
 
-## Ecrã Principal Teste
+<div align="center">
 
-![](img/principal.png)
+## Demo-GUIs
 
-## Gerando a Notificação
+`Ecrã Principal Teste` \
+![demo-gui-principal](img/principal.png)
 
-![](img/notificacao.png)
+`Retornando Erro` \
+![retornando-erro](img/erro.png)
 
-## Retornando Erro
+`Gerando a Notificação` \
+![gerando-notificacao](img/notificacao.png)
 
-![](img/erro.png)
+</div>
 
 ## Requirements
 
 Windows:
-- ``pip install -r requirements.txt``
+- `pip install -r requirements.txt`
 
 Linux:
-- ``python3 -m pip install -r requirements.txt``
-ou ``sudo pip3 install -r requirements.txt``
+- `python3 -m pip install -r requirements.txt`
+- `sudo pip3 install -r requirements.txt`
 
----
-
-**_para mais informações leia os PDFs localizados na pasta ``./doc/`` ou [clique aqui..](/doc)_**
-
-&copy; 2019-2021 [Nurul Carvalho](mailto:nuruldecarvalho@gmail.com) \
-&trade; [ArtesGC](https://artesgc.home.blog)
+<div align="center">
+    
+&copy; 2021 [Nurul Carvalho](mailto:nuruldecarvalho@gmail.com) | &trade; [ArtesGC](https://artesgc.home.blog)
+    
+</div>
